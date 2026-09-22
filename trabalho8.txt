@@ -1,0 +1,8 @@
+total 333
+drwxr-xr-x 1 Niston 197121      0 Sep 22 20:16 ./
+drwxr-xr-x 1 Niston 197121      0 Sep 22 20:10 ../
+drwxr-xr-x 1 Niston 197121      0 Sep 22 20:14 .git/
+-rw-r--r-- 1 Niston 197121 322197 Sep 22 20:14 Capturar_tela1.PNG
+-rw-r--r-- 1 Niston 197121   1094 Sep 22 20:10 LICENSE
+-rw-r--r-- 1 Niston 197121     63 Sep 22 20:10 README.md
+-rw-r--r-- 1 Niston 197121      0 Sep 22 20:16 trabalho8.txt
